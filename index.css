@@ -1,0 +1,76 @@
+
+   .loginpage1{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 10%;
+
+}
+.loginpage1> button{
+    opacity: 0.8;
+}
+.loginpage1> button:hover{  
+    background-color: rgb(0, 0, 0);
+    transition: 0.5s;
+}
+.loginpage1> input:hover{  
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-color: black;
+    transition: 0.2s;
+}
+.loginpage2> input:hover{  
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-color: black;
+    transition: 0.2s;
+}
+.loginpage2> button:hover{  
+    opacity: 1;
+    transition: 0.5s;
+}
+   .loginpage1 > input{
+    margin-bottom: 10px;
+    height: 40px;
+    opacity: 0.8;
+   }
+   .loginpage1 >h1{
+    font-size: 30px;
+   }
+   .loginpage1 >h4{
+    font-size: 14px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+   }
+   .loginpage1 >p{
+    color: whitesmoke;
+    margin-top: 20px;
+    font-size: 14px;
+   }
+   .loginpage2{
+    display: none;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 10%;
+}
+.loginpage2> button{
+    opacity: 0.8;
+}
+
+   .loginpage2 > input{
+    margin-bottom: 20px;
+    height: 40px;
+    opacity: 0.8;
+   }
+   .loginpage2 >h1{
+    font-size: 30px;
+   }
+   .loginpage2 >h4{
+    font-size: 14px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+   }
+   .loginpage2 >p{
+    color: whitesmoke;
+    margin-top: 20px;
+    font-size: 14px;
+   }
